@@ -14,4 +14,5 @@ Keyword-based email subscriptions to Hacker News using Storm
 
 - Implement PostTopology using [storm-redis-pubsub](https://github.com/sorenmacbeth/storm-redis-pubsub)
 - Hook into email provider
+- Go from local cluster setup to the real deal
 - ...
