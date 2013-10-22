@@ -3,6 +3,7 @@ lib/
 target/
 *.pyc
 *.jar
+.DS_Store
 .classpath
 .project
 .lein-deps-sum
