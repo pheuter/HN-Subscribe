@@ -3,7 +3,6 @@ target/
 *.pyc
 .classpath
 .project
-*.jar
 .lein-deps-sum
 .lein-repl-history
 
