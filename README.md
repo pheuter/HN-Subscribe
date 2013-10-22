@@ -3,6 +3,12 @@ HN-Subscribe
 
 Keyword-based email subscriptions to Hacker News using Storm
 
+## Dependencies
+
+- [Storm](http://storm-project.net/)
+- [storm-redis-pubsub](https://github.com/stormprocessor/storm-redis-pubsub)
+- [Jsoup](http://jsoup.org/)
+
 ## Setup
 
 - [Install](http://leiningen.org/#install) leiningen
