@@ -1,6 +1,8 @@
 classes/
+lib/
 target/
 *.pyc
+*.jar
 .classpath
 .project
 .lein-deps-sum
